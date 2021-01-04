@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/inboxlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/nomatch"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <customfonts.TextViewSFProDisplayMedium
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="No Message"
+            android:textColor="@color/gray"
+            android:textSize="18dp"
+            android:layout_below="@id/sleep"
+            android:visibility="visible"
+            android:id="@+id/textViewSFProDisplayMedium2" />
+
+        <ImageView
+            android:id="@+id/sleep"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:src="@drawable/logo" />
+    </RelativeLayout>
+</FrameLayout>

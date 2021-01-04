@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997919901533",
+    "firebase_url": "https://geostate-27e29-default-rtdb.firebaseio.com",
+    "project_id": "geostate-27e29",
+    "storage_bucket": "geostate-27e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997919901533:android:f6092459faeae73df78ab4",
+        "android_client_info": {
+          "package_name": "com.otacodes.goestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997919901533-45n7j12c1b8b5n8vpulmg2pmg14nrq70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRcpGhD77oSdCdl4P2mjffZ6SEUUhZIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997919901533-45n7j12c1b8b5n8vpulmg2pmg14nrq70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

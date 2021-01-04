@@ -1,0 +1,45 @@
+﻿<resources>
+    <string name="app_name">LatifApp</string>
+
+    <string name="facebook_app_id">208976557483720</string>
+    <string name="fb_login_protocol_scheme">fb208976557483720</string>
+    <string name="admob_publiserID">ca-app-pub-2963924098832839~1658833930</string>
+    <string name="admob_interstitial">ca-app-pub-2963924098832839/6922768903</string>
+    <string name="admob_bannerID">ca-app-pub-2963924098832839/6922768903</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="confirm">Confirm</string>
+    <string name="logindesc">Enter a phone number that can be used to verify your identity with a text message or phone call. </string>
+    <string name="hintphone">your phone number </string>
+    <string name="orlogin">Or Login With</string>
+
+    <string name="verifydesc">We send you a code to varify your phone number</string>
+    <string name="norecieve">I didnt receive a code!</string>
+    <string name="resend">Resend</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+
+    <string name="close">Are your sure you want to close</string>
+
+    <string name="subject">subject</string>
+    <string name="email_text">text</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_property">Services</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="device">android</string>
+
+    <string-array name="purpose">
+        <item>Sale</item>
+        <item>Adoption</item>
+    </string-array>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
